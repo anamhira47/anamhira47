@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-Currently Working on Learning how to Learn.
+Hi Im Anam. Currently Learning how to Learn, working on [CogniSim](https://github.com/CogniSim)
