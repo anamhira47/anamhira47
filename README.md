@@ -1,3 +1,5 @@
+![Mandelbrot set](assets/banner.png)
+
 ### Hi there 👋
 
 <!--
